@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster AI Chess",
+  "description": "A feature-rich chess application with a grandmaster-level AI coach powered by Google Gemini. Analyze positions, get hints, and improve your game in a sleek, dark-mode interface.",
+  "requestFramePermissions": []
+}
