@@ -1,6 +1,6 @@
 # Grandmaster AI Chess: A Personalized Learning Platform
 
-**A React-based chess application designed to transition players from casual movers to strategic thinkers using Generative AI.**
+**A React-based chess application designed to transition players from casual movers to strategic thinkers using Generative AI. Made with Google AI Studio**
 
 ## 1. Project Overview
 Grandmaster AI Chess is not just another board implementation; it is an interactive coaching environment. While traditional chess apps rely on numeric evaluations (e.g., "+0.5 advantage") that confuse beginners, this project utilizes Google's Gemini API to provide natural language explanations, strategic planning, and adaptive opponents.
